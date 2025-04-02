@@ -153,10 +153,10 @@ F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RepositoryPattern.props
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RepositoryPattern.props
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\staticwebassets.pack.json
-F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\Reposito.18ADDE3A.Up2Date
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\RepositoryPattern.dll
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\refint\RepositoryPattern.dll
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\RepositoryPattern.pdb
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\RepositoryPattern.genruntimeconfig.cache
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\ref\RepositoryPattern.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
