@@ -36,7 +36,7 @@ namespace RepositoryPattern.Repositories
             return await appDbContext.Products.FirstOrDefaultAsync(x => x.Id.Equals(id));
         }
 
-        public async Task<List<Product>> GetAllAsync(int skip = 0, int take = 10)
+        public async Task<List<Product>> GetAllAsync(int skip = 0, int take = 10, CancellationToken cancellationToken = default)
         {
             return await appDbContext.Products
                 .AsNoTracking()

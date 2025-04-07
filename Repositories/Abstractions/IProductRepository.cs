@@ -12,6 +12,6 @@ namespace RepositoryPattern.Repositories.Abstractions
 
         Task<Product?> GetByIdAsync(int id, CancellationToken cancellationToken = default);
 
-        Task<List<Product>> GetAllAsync(int skip = 0, int take = 10);
+        Task<List<Product>> GetAllAsync(int skip = 0, int take = 10, CancellationToken cancellationToken = default);
     }
 }
