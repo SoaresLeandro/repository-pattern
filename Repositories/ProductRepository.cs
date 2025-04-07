@@ -1,10 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RepositoryPattern.Data;
 using RepositoryPattern.Entities;
+using RepositoryPattern.Repositories.Abstractions;
 
 namespace RepositoryPattern.Repositories
 {
-    public class ProductRepository(AppDbContext appDbContext)
+    public class ProductRepository(AppDbContext appDbContext) : IProductRepository
     {
         public async Task<Product> CreateAsync(Product product, CancellationToken cancellationToken = default)
         {
