@@ -17,7 +17,7 @@ namespace RepositoryPattern.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Title = table.Column<string>(type: "NVARCHAR(160)", maxLength: 160, nullable: false),
-                    Price = table.Column<decimal>(type: "DECIMAL(38,17)", nullable: false)
+                    Price = table.Column<double>(type: "float", nullable: false)
                 },
                 constraints: table =>
                 {

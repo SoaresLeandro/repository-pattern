@@ -16,10 +16,6 @@ namespace RepositoryPattern.Data.Mapping
                 .IsRequired()
                 .HasMaxLength(160)
                 .HasColumnType("NVARCHAR");
-
-            builder.Property(p => p.Price)
-                .IsRequired()
-                .HasColumnType("DECIMAL");
         }
     }
 }

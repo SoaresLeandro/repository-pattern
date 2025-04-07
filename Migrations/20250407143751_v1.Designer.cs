@@ -11,7 +11,7 @@ using RepositoryPattern.Data;
 namespace RepositoryPattern.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250402201441_v1")]
+    [Migration("20250407143751_v1")]
     partial class v1
     {
         /// <inheritdoc />
@@ -32,8 +32,8 @@ namespace RepositoryPattern.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<decimal>("Price")
-                        .HasColumnType("DECIMAL");
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
 
                     b.Property<string>("Title")
                         .IsRequired()

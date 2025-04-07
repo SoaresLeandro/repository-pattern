@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using RepositoryPattern.Entities;
 
 namespace RepositoryPattern.Data
