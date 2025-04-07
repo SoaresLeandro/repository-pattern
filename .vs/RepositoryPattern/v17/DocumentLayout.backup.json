@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\repositorypattern\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\repositorypattern\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\repositorypattern\\migrations\\20250407143751_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|solutionrelative:migrations\\20250407143751_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\repositorypattern\\data\\mapping\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|solutionrelative:data\\mapping\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\repositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|f:\\leandro\\lab_leandro\\balta\\repository pattern\\repositorypattern\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BFBDA4F4-CB33-5391-00D3-D0F3E207AFA9}|RepositoryPattern.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -163,6 +171,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:29:27.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:38:00.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250407143751_v1.cs",
+              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\Migrations\\20250407143751_v1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250407143751_v1.cs",
+              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\Migrations\\20250407143751_v1.cs",
+              "RelativeToolTip": "Migrations\\20250407143751_v1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:37:57.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductMap.cs",
               "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\Data\\Mapping\\ProductMap.cs",
               "RelativeDocumentMoniker": "Data\\Mapping\\ProductMap.cs",
@@ -170,12 +216,11 @@
               "RelativeToolTip": "Data\\Mapping\\ProductMap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:36:34.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:36:34.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -183,12 +228,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:04:03.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:04:03.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -196,21 +240,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:02:03.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "F:\\Leandro\\lab_leandro\\balta\\Repository Pattern\\RepositoryPattern\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T14:00:05.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:02:03.247Z"
             }
           ]
         }

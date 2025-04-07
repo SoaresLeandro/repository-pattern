@@ -159,3 +159,4 @@ F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\RepositoryPattern.pdb
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\RepositoryPattern.genruntimeconfig.cache
 F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\ref\RepositoryPattern.dll
+F:\Leandro\lab_leandro\balta\Repository Pattern\RepositoryPattern\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
